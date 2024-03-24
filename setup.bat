@@ -118,9 +118,9 @@ echo.
 echo Emulators made by duynguyen
 echo       Vui long chon phien ban BlueStacks ban muon cai dat! 
 echo.
-echo     ( 1b )  BlueStacks Lite_v5.9.0.1061_NewBack_DuyNguyen0819 ( Android7-N32 )
-echo     ( 2b )  BlueStacks Lite_N64_v5.9.0.1061_NewBack_DuyNguyen0819 ( Android7-N64 )
-echo     ( 3b )  BlueStacks Lite_P64_v5.9.0.1061_NewBack_DuyNguyen0819 ( Android9-P64 )
+echo     ( 1b )  MSI Lite_v5.9.300.6315_NewBack_DuyNguyen0819 ( Android7-N32 )
+echo     ( 2b )  MSI Lite_N64_v5.9.300.6315_NewBack_DuyNguyen0819 ( Android7-N64 )
+echo     ( 3b )  MSI Lite_P64_v5.9.300.6315_NewBack_DuyNguyen0819 ( Android9-P64 )
 echo.
 SET /P ChooseMS=»  
 IF %ChooseMS%=='' GOTO installMS
